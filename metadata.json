@@ -1,0 +1,8 @@
+{
+  "name": "ApexStudy - B2C SaaS Student OS",
+  "description": "Ultra-clean B2C SaaS platform for Grades 8-12 students with AI study kit generation, gamified planner, timeline adaptive quests, Zen focus engine with Lo-Fi audio, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
